@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+/*first*/
+.social-network {
+	margin: 0.3% 0%;
+}
+.nav-up {
+	margin: 0%;
+	position: fixed;
+}
+.social-icon {
+	margin: 0.3% 1em;
+	width: 3em;
+}
+.utrend-link {
+	margin: 0.3%;
+	width: 15em;
+	height: 3em
+}
+#bg-logo{
+	padding: 0;
+	position: relative;
+	width:100%;
+	margin: 0%;
+	height: 100%;
+	}
+#logo {
+	position: absolute;
+	top: 100px;
+  	right: 32%;
+  	width: 35%;
+	height: 70%;
+	}
+#nav-up-left {
+	position: absolute;
+	top: 0px;
+  	right: 100%;
+  	width: 0%;
+	height: 0%;
+}
+#nav-up-right {
+	position: absolute;
+	top: 0px;
+  	right: 1%;
+  	width: 0%;
+	height: 0%;
+}
+/*second*/
+.about-us-text h2 {
+	font-size:  3em;
+}
+.about-us-text p {
+	font-size:  2em;
+}
+/*third*/
+.join-team-text {
+	font-size:  3em;
+}
+.smaller-class{
+	width: 100%;
+	margin: 2% 0%;
+	background-color: #f8c869;
+	height: 96%;
+}
+#speacer {
+	width: 100%;
+}
+#speacer-text {
+	font-size: 4em;
+}
+#speacer-text-more {
+	font-size: 2em;
+}
+#sponsor {
+	margin: 0%;
+	width: 100%;
+}
+#sponsor-text {
+	font-size: 4em;
+}
+#sponsor-text-more {
+	font-size: 2em;
+}
+/*fourth*/
+.foto-of-organizator{
+	margin: 10% 0% 0% 0%;
+	width: 13em;
+}
+.get-in-toch-text {
+	margin: 0;
+	text-align: center;
+	font-size: 3em;
+	font-family: "EB Garamond";
+}
+/*last part*/

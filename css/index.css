@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+/*first*/
+.bg-logo-img{
+	margin: 0;
+	background-color: #a8b1b8;
+}
+/*second*/
+.about-us {
+	margin: 0;
+	background-color: #a8b1b8;
+}
+.about-us-text h2 {
+	font-family: "PT Serif";
+	text-align: center;
+	margin: 0% 5%;
+	}
+.about-us-text p {
+	font-family: "EB Garamond";
+	text-align: center;
+	margin: 0% 10%;
+}
+.about-us-more {
+	margin: 0 auto;
+}
+#more {
+	margin: 0% 0% 1.5% 0%;
+	width: 4%;
+	height: 4%;
+}
+/*third*/
+.join-team {
+	background-color: #feb729;
+}
+.join-team-text {
+	margin: 1% 0% 0% 0%;
+	font-family: "PT Serif";
+	text-align: center;
+}
+#thre-friend {
+	width: 20%;
+	height: 20%;
+}
+#speacer-text {
+	text-align: center;
+	margin: 0% 0% 0% 20%;
+	font-family: "PT Serif";
+	text-decoration: underline;
+	color: #000;
+}
+#speacer-text-more {
+	font-family: "EB Garamond";
+	margin: 2% 3%
+}
+#sponsor-text {
+	text-align: center;
+	margin: 0% 0% 0% 20%;
+	font-family: "PT Serif";
+	text-decoration: underline;
+	color: #000;
+}
+#sponsor-text-more {
+	font-family: "EB Garamond";
+	margin: 2% 3%
+}
+/*fourth*/
+.get-in-toch{
+	margin: 0%;
+	background-color: #6d98ab;
+}
+/*last part*/
+.sponsor-logo{
+	background-color: #000;
+}
+#utrend-support {
+	margin: 4% 30%;
+	width: 40%;
+}
