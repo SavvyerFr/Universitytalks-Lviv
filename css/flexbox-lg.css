@@ -19,7 +19,16 @@
 	display: flex;
 	justify-content: center;
 }
-/*third*/
+/*three*/
+.speacer-foto-first-line {
+	display: flex;
+	justify-content: space-around;
+}
+.speacer-foto-second-line {
+	display: flex;
+	justify-content: space-around;
+}
+/*five*/
 .join-team-up {
 	display: flex;
 	justify-content: center;
@@ -29,11 +38,6 @@
 .join-team-pic-down{
 	display: flex;
 	justify-content: center;
-}
-.get-in-toch-photo{
-	text-align: center;
-	display: flex;
-	justify-content: space-around;
 }
 .join-team-speacer {
 	display: flex; 
@@ -62,4 +66,10 @@
 }
 .join-team-sponsor-img {
 	flex: 3;
+}
+/*six*/
+.get-in-toch-photo{
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
 }

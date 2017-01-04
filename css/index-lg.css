@@ -29,7 +29,6 @@
 	top: 100px;
   	right: 32%;
   	width: 35%;
-	height: 70%;
 	}
 #nav-up-left {
 	position: absolute;
@@ -47,12 +46,49 @@
 }
 /*second*/
 .about-us-text h2 {
-	font-size:  3em;
+	font-size:  2.7em;
 }
 .about-us-text p {
-	font-size:  2em;
+	font-size:  1.7em;
 }
-/*third*/
+/*three*/
+.speacer-foto-fivth-line-sm, .speacer-foto-fourth-line-sm, .speacer-foto-third-line-sm, .speacer-foto-second-line-sm, .speacer-foto-first-line-sm, .speacer-foto-fourth-line-lap, .speacer-foto-third-line-lap, .speacer-foto-second-line-lap, .speacer-foto-first-line-lap {
+	display: none;
+}
+.speacer-photo{
+	margin: 10% 0% 0% 0%;
+	width: 13em;
+}
+.get-in-toch-text {
+	margin: 0;
+	text-align: center;
+	font-size: 3em;
+	font-family: "EB Garamond";
+}
+.speakers-text{
+	font-size: 6em;
+}
+.speaker-info {
+	width: 100%;
+}
+/*four*/
+.ivent-time {
+	margin: 0;
+}
+.lnu-bg{
+	margin: 0;
+}
+.ivent-text {
+	margin: 7% 25% 0% 25%;
+	text-align: center;
+	font-size: 2em;
+	}
+.program-info {
+	margin: 38% 40% 0% 40%;
+	text-align: center;
+	font-size: 2.5em;
+	}
+/*five*/
 .join-team-text {
 	font-size:  3em;
 }
@@ -81,7 +117,10 @@
 #sponsor-text-more {
 	font-size: 2em;
 }
-/*fourth*/
+/*six*/
+.get-in-toch-photo-sm, .get-in-toch-photo-lap {
+	display: none;
+}
 .foto-of-organizator{
 	margin: 10% 0% 0% 0%;
 	width: 13em;

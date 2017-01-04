@@ -31,9 +31,35 @@
 #more {
 	margin: 0% 0% 1.5% 0%;
 	width: 4%;
-	height: 4%;
+	height: 3em;
 }
-/*third*/
+/*three*/
+.speakers-text{
+	font-family: "PT Serif";
+	text-align: center;
+	margin: 0% 5%;
+}
+/*four*/
+.ivent-time {
+	position: relative;
+	background-color: #feb729;
+}
+.lnu-bg{
+	width: 100%;
+}
+.program-info {
+	position: absolute;
+	font-family: "PT Serif";
+	text-align: center;
+	color: #000;
+}
+.ivent-text {
+	position: absolute;
+	font-family: "PT Serif";
+	text-align: center;
+	color: #000;
+}
+/*five*/
 .join-team {
 	background-color: #feb729;
 }
@@ -68,7 +94,7 @@
 	font-family: "EB Garamond";
 	margin: 2% 3%
 }
-/*fourth*/
+/*six*/
 .get-in-toch{
 	margin: 0%;
 	background-color: #6d98ab;

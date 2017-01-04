@@ -1,3 +1,71 @@
 @charset "utf-8";
 /* CSS Document */
-
+/*first*/
+.up-nav{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.social-network {
+	display: flex;
+	justify-content: flex-start;
+}
+.utrend-link {
+	display: flex;
+	justify-content: flex-end;
+}
+/*second*/
+.about-us-more {
+	display: flex;
+	justify-content: center;
+}
+/*three*/
+.speacer-foto-fivth-line-sm, .speacer-foto-fourth-line-sm, .speacer-foto-third-line-sm, .speacer-foto-second-line-sm, .speacer-foto-first-line-sm {
+	display: flex;
+	justify-content: space-around;
+}
+/*five*/
+.join-team-up {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	}
+.join-team-pic-down{
+	display: flex;
+	justify-content: center;
+}
+.join-team-speacer {
+	display: flex; 
+	flex-direction: row;
+}
+.join-team-speacer-text {
+	display: flex;
+}
+.join-team-speacer-text-in {
+	order: 0;
+	flex: 1;
+}
+.join-team-speacer-img {
+	flex: 3;
+}
+.join-team-sponsor {
+	display: flex; 
+	flex-direction: row;
+}
+.join-team-sponsor-text {
+	display: flex;
+}
+.join-team-sponsor-text-in {
+	order: 0;
+	flex: 1;
+}
+.join-team-sponsor-img {
+	flex: 3;
+}
+/*six*/
+.get-in-toch-photo-sm{
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+}
