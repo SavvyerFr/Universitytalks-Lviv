@@ -24,8 +24,11 @@
 	display: flex;
 	justify-content: space-around;
 }
-
 /*five*/
+.become-one-of-us {
+	display: flex;
+	justify-content: center;
+}
 .join-team-up {
 	display: flex;
 	justify-content: center;
@@ -35,20 +38,6 @@
 .join-team-pic-down{
 	display: flex;
 	justify-content: center;
-}
-.join-team-speacer {
-	display: flex; 
-	flex-direction: row;
-}
-.join-team-speacer-text {
-	display: flex;
-}
-.join-team-speacer-text-in {
-	order: 0;
-	flex: 1;
-}
-.join-team-speacer-img {
-	flex: 3;
 }
 .join-team-sponsor {
 	display: flex; 

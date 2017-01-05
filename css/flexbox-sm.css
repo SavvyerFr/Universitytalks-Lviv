@@ -25,6 +25,14 @@
 	justify-content: space-around;
 }
 /*five*/
+.become-one-of-us {
+	display: flex;
+	justify-content: center;
+}
+#sponsor-text {
+	display: flex;
+	justify-content: center;
+}
 .join-team-up {
 	display: flex;
 	justify-content: center;
@@ -34,10 +42,6 @@
 .join-team-pic-down{
 	display: flex;
 	justify-content: center;
-}
-.join-team-speacer {
-	display: flex; 
-	flex-direction: row;
 }
 /*six*/
 .get-in-toch-photo-sm{
