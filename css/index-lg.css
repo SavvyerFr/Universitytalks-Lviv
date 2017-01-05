@@ -115,10 +115,12 @@
 	width: 100%;
 }
 #sponsor-text {
+	margin: 0% 0% 0% 3%;
 	font-size: 3em;
 }
 #sponsor-text-more {
-	font-size: 1.5em;
+	margin: 0% 0% 0% 3%;
+	font-size: 2em;
 }
 /*six*/
 .get-in-toch-photo-sm, .get-in-toch-photo-lap {

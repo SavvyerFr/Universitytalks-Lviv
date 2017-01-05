@@ -58,3 +58,9 @@
 	display: flex;
 	justify-content: space-around;
 }
+/*last*/
+.sponsor-logo {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+}

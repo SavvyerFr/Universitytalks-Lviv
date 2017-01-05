@@ -98,7 +98,8 @@
 .sponsor-logo{
 	background-color: #000;
 }
-#utrend-support {
-	margin: 4% 30%;
-	width: 15%;
-}
+.sponsor-img {
+	margin: 2em 0em;
+	width: 10em;
+	height: 10em;
+	}
