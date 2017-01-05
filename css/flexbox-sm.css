@@ -25,11 +25,7 @@
 	justify-content: space-around;
 }
 /*five*/
-.become-one-of-us {
-	display: flex;
-	justify-content: center;
-}
-#sponsor-text {
+.become-one-of-us-fl {
 	display: flex;
 	justify-content: center;
 }

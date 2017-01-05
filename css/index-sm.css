@@ -55,7 +55,7 @@
 	font-size:  1.5em;
 }
 #more {
-	margin: 2% 0% 1.5% 0%;
+	margin: 1.5% 0%;
 	width: 4em;
 	height: 4em;
 }
@@ -68,7 +68,7 @@
 	width: 10em;
 	}
 .speakers-text {
-	margin: 0;
+	margin: 1.5% 0%;
 	text-align: center;
 	font-size: 3.5em;
 	font-family: "EB Garamond";
@@ -89,6 +89,8 @@
 	font-size: 1.3em;
 	}
 .program-info {
+	text-decoration: none;
+	color: #000;
 	margin: 36% 40% 0% 40%;
 	text-align: center;
 	font-size: 1.3em;
@@ -96,6 +98,9 @@
 /*five*/
 .join-team-text {
 	font-size:  2em;
+}
+#lnu-all {
+	display: none;
 }
 .smaller-class{
 	width: 100%;
@@ -106,18 +111,9 @@
 	font-size: 2.5em;
 	text-decoration: none;
 	color: #000;
-	margin: 3% 0%;
+	margin: 1.5% 0%;
 }
-#sponsor {
-	margin: 0%;
-	width: 100%;
-}
-#sponsor-text {
-	display: none;
-	margin: 1em 0.2em 1em;
-	font-size: 3em;
-}
-#sponsor-text-more {
+.join-team-sponsor {
 	display: none;
 }
 /*six*/
