@@ -10,12 +10,12 @@
 }
 .social-icon {
 	margin: 0.3% 1em;
-	width: 2em;
+	width: 1em;
 }
 .utrend-link {
 	margin: 0.3%;
-	width: 10em;
-	height: 2em
+	width: 6em;
+	height: 1em
 }
 #bg-logo{
 	padding: 0;
@@ -26,9 +26,9 @@
 	}
 #logo {
 	position: absolute;
-	top: 100px;
-  	right: 40%;
-  	width: 20%;
+	top: 2em;
+  	right: 20%;
+  	width: 60%;
 	}
 #nav-up-left {
 	position: absolute;
@@ -51,21 +51,20 @@
 .about-us-text p {
 	font-size:  1em;
 }
+#more {
+	margin: 0% 0% 1.5% 0%;
+	width: 4em;
+	height: 4em;
+}
 /*three*/
 .speacer-foto-fourth-line-lap, .speacer-foto-third-line-lap, .speacer-foto-second-line-lap, .speacer-foto-first-line-lap, .speacer-foto-second-line, .speacer-foto-first-line {
 	display:none;
 }
 .foto-of-organizator{
 	margin: 10% 0% 0% 0%;
-	width: 12em;
+	width: 9em;
 	}
-.speakers-text {
-	margin: 0;
-	text-align: center;
-	font-size: 2em;
-	font-family: "EB Garamond";
-}
-.get-in-toch-text {
+.speakers-text, .get-in-toch-text {
 	margin: 0;
 	text-align: center;
 	font-size: 2em;
@@ -75,12 +74,6 @@
 	width: 100%;
 }
 /*four*/
-.ivent-time {
-	margin: 0;
-}
-.lnu-bg{
-	margin: 0;
-}
 .ivent-text {
 	margin: 7% 18% 0% 18%;
 	text-align: center;
@@ -108,7 +101,7 @@
 	font-size: 1.5em;
 }
 #speacer-text-more {
-	font-size: 1em;
+	display: none;
 }
 #sponsor {
 	margin: 0%;
@@ -118,16 +111,12 @@
 	font-size: 1.5em;
 }
 #sponsor-text-more {
-	font-size: 1em;
+	display: none;
 }
 /*six*/
 .get-in-toch-photo-lap, .get-in-toch-photo {
 	display: none;
 	}
-.foto-of-organizator-sm{
-	margin: 10% 0% 0% 0%;
-	width: 8em;
-}
 .get-in-toch-text-oeganizator {
 	margin: 0;
 	text-align: center;

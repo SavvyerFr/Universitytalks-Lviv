@@ -51,6 +51,11 @@
 .about-us-text p {
 	font-size:  1.7em;
 }
+#more {
+	margin: 0% 0% 1.5% 0%;
+	width: 4%;
+	height: 3em;
+}
 /*three*/
 .speacer-foto-fivth-line-sm, .speacer-foto-fourth-line-sm, .speacer-foto-third-line-sm, .speacer-foto-second-line-sm, .speacer-foto-first-line-sm, .speacer-foto-fourth-line-lap, .speacer-foto-third-line-lap, .speacer-foto-second-line-lap, .speacer-foto-first-line-lap {
 	display: none;
