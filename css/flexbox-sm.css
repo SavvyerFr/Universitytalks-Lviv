@@ -39,30 +39,6 @@
 	display: flex; 
 	flex-direction: row;
 }
-.join-team-speacer-text {
-	display: flex;
-}
-.join-team-speacer-text-in {
-	order: 0;
-	flex: 1;
-}
-.join-team-speacer-img {
-	flex: 3;
-}
-.join-team-sponsor {
-	display: flex; 
-	flex-direction: row;
-}
-.join-team-sponsor-text {
-	display: flex;
-}
-.join-team-sponsor-text-in {
-	order: 0;
-	flex: 1;
-}
-.join-team-sponsor-img {
-	flex: 3;
-}
 /*six*/
 .get-in-toch-photo-sm{
 	text-align: center;
